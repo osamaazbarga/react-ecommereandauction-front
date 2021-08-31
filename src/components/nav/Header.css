@@ -1,0 +1,7 @@
+.float-nav{
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    color: red;
+    float: right;
+}
